@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="todos">ToDos</string>
+    <string name="completed">Completed</string>
+    <string name="choose_date">Choose Date</string>
+    <string name="todo_add">Add To Do here!</string>
+    <string name="save">Save</string>
+    <string name="empty_name">Name Field is required</string>
+    <string name="empty_date">Date Field is required</string>
+    <string name="add_text">To Do Name is Here!!</string>
+    <string name="no_data">No Data Available</string>
+</resources>
